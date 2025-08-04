@@ -1,6 +1,4 @@
-We use NPM for package management in this project. 
-
-For CSS and layout  we use tailwindcss
-
-We use svelte for building user interfaces.
-the root for the app is in cheese-store/src
+We use svelte for the frontend of our application. When writing code, please ensure that you follow the Svelte best practices and conventions. Here are some key points to keep in mind:
+- we use typescript for all our svelte components
+- Data is a simple json file in the file of the components
+- everything is unit tested
